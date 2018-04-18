@@ -30,6 +30,7 @@ Install Python and dependencies:
 
 ```
 sudo apt install python-pip python-dev build-essential python2.7-dev python-pyexiv2 python-openssl
+sudo apt-get install python-qt4
 sudo pip install --upgrade pip 
 sudo pip install --upgrade virtualenv 
 sudo pip install --upgrade tweepy
