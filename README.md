@@ -1,3 +1,7 @@
+#fork 
+
+Added new compatiblity package for python
+
 # tinfoleak
 The most complete open-source tool for Twitter intelligence analysis
 
