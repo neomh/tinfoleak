@@ -41,6 +41,7 @@ sudo pip install --upgrade pillow
 sudo pip install --upgrade exifread
 sudo pip install --upgrade jinja2 
 sudo pip install --upgrade oauth2
+sudo apt-get install python-qt4
 ```
 
 ### Getting started
